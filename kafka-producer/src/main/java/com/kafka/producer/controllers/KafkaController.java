@@ -1,6 +1,6 @@
 package com.kafka.producer.controllers;
 
-import com.kafka.producer.engine.Producer;
+import com.kafka.producer.services.Producer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
